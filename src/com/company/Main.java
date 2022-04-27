@@ -232,6 +232,6 @@ public class Main {
         else if(password.length() >= MIN){
             System.out.println("Password is valid");
         }
-
-    }*/
+*/
+    }
 }
