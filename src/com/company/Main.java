@@ -15,7 +15,7 @@ public class Main {
 
         //****************************************************************************************************************
 
-        // Question 1.(riješeno)
+        // Question 1.
         //  Write a Java program to find all of the longest word in a given Json.
         //          Example:
         //  { "cat", "flag", "green", "country", "w3resource" }
@@ -35,7 +35,7 @@ public class Main {
 */
 
 //********************************************************************************************************************
-        //Question 2.(riješeno)
+        //Question 2.
         // Write a Java program to find the number of days in a month.
         //Example:
         //Input a month name: February
@@ -96,7 +96,7 @@ public class Main {
 
 //********************************************************************************************************************
  /*
-        Question 3.(riješen)
+        Question 3.
 
         Write a program in Java to display the cube of the number upto given an integer.
         Example:
@@ -116,7 +116,7 @@ public class Main {
 
      /*
  // *****************************************************************************************************************
-       Question 4.(riješen)
+       Question 4.
        Write a program in Java to display the pattern like a diamond.
         Example: Input number of rows (half of the diamond) : 7
          Expected Output :
@@ -159,7 +159,7 @@ public class Main {
 
 //*********************************************************************************************************************
 
-        // Question 5.(riješen)
+        // Question 5.
         // Write a Java program that reads an integer and check whether it is negative, zero, or positive.
         //       Test Data:
         // Input a number: 7
